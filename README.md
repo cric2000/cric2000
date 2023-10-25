@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Nuxt3, React, FastAPI, Nodejs, Postgresql, MongoDB, Docker**.
+- 🔭 I’m currently working on **Nuxt3, React, FastAPI, Nodejs, Postgresql, MongoDB, Docker, SQLAlchemy**.
 
 - 🌱 I'm currently learning how to scale applications and improve **SEO**.
 
