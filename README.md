@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -26,9 +26,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Nuxt3, React, FastAPI, Nodejs, Postgresql, MongoDB, Docker, SQLAlchemy**.
+- 🔭 I’m currently working on **Next JS and Flutter**.
 
-- 🌱 I'm currently learning how to scale applications and improve **SEO**.
+- 🌱 I'm currently learning how to scale applications.
 
 - ☁️ I'm genuinely curious about **open source contributions** and currently exploring this area.
 
@@ -67,7 +67,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nuxt,react,postgresql,fastapi,py,vue,git,bootstrap,css,docker,github,gitlab,mongodb,nodejs,nextjs,figma,html,materialui,tailwind,postman,cpp,linux&perline=16" />
+    <img src="https://skillicons.dev/icons?i=js,next,react,flutter,nuxt,postgresql,fastapi,py,vue,git,bootstrap,css,docker,github,gitlab,mongodb,nodejs,figma,html,materialui,tailwind,postman,cpp,linux&perline=16" />
   </a>
 </p>
 
