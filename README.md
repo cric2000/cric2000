@@ -67,7 +67,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,next,react,flutter,nuxt,postgresql,fastapi,py,vue,git,bootstrap,css,docker,github,gitlab,mongodb,nodejs,figma,html,materialui,tailwind,postman,cpp,linux&perline=16" />
+    <img src="https://skillicons.dev/icons?i=js,next,react,flutter,nuxt,typescript,postgresql,fastapi,py,vue,git,bootstrap,css,docker,github,gitlab,mongodb,nodejs,figma,html,materialui,tailwind,postman,cpp,linux&perline=16" />
   </a>
 </p>
 
