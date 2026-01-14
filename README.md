@@ -46,7 +46,7 @@
 <table width="100%" align="center">
   <tr>
     <td align="center">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cric2000&theme=radical" />
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=cric2000 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cric2000&theme=radical" />
     </td>
     <td align="center">
       <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cric2000&layout=compact&langs_count=8&theme=radical&show_icons=true" />
