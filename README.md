@@ -1,91 +1,55 @@
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Anmol Lamba</h1></summary>
-  </ul>
-</div>
-
-
-<!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
-       alt="snake" /></a>
+
+# Anmol Lamba
+
+### Full-Stack Software Engineer · Web & Mobile
+
+Building reliable services, scalable applications, and thoughtful product experiences.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmollamba/)
+[![GitHub](https://img.shields.io/badge/GitHub-cric2000-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cric2000)
+[![Gmail](https://img.shields.io/badge/Gmail-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmollamba30@gmail.com)
+
 </div>
 
+---
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Software Developer ( Full-stack )</h2></summary>
-  </ul>
+### About
+
+I'm a full-stack software engineer with **3+ years of experience** developing production web and mobile applications and backend services. I work across the stack, from designing APIs and data models to building user-facing features and shipping applications.
+
+My interests include **backend architecture, database performance, cloud infrastructure, and practical AI-powered products**. I enjoy investigating bottlenecks, simplifying complex workflows, and building software that's maintainable beyond its first release.
+
+### Technologies
+
+**Languages**  
+
+![Languages](https://skillicons.dev/icons?i=go,py,ts,js,dart,cpp&perline=10)
+
+**Frontend & Mobile**  
+
+![Frontend and Mobile](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,flutter,tailwind,html,css&perline=10)  
+React Native
+
+**Backend & Data**  
+
+![Backend and Data](https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql,supabase&perline=10)
+
+**Cloud & Tools**  
+
+![Cloud and Tools](https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,linux,postman&perline=10)
+
+**Also experienced with:** REST APIs, CI/CD, SQL query optimization, third-party integrations, and application deployment.
+
+### GitHub Activity
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=cric2000&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cric2000&layout=compact&theme=tokyonight&hide_border=true)
+
+<sub>Language statistics reflect public repository content, not overall proficiency.</sub>
+
 </div>
-
-
-<!--Intro start-->
-- 🔭 I’m currently working on **Next JS and Flutter**.
-
-- 🌱 I'm currently learning how to scale applications.
-
-- ☁️ I'm genuinely curious about **open source contributions** and currently exploring this area.
-
-- 💬 Ask me about **Web technologies**
-
-- 📫 Feel free to reach me out **anmollamba30@gmail.com**
-  
-<!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table width="100%" align="center">
-  <tr>
-    <td align="center">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=cric2000 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cric2000&theme=radical" />
-    </td>
-    <td align="center">
-      <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cric2000&layout=compact&langs_count=8&theme=radical&show_icons=true" />
-    </td>
-  </tr>
-</table>
-<!--- stats (end) -->
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,next,react,flutter,nuxt,typescript,postgresql,fastapi,py,vue,git,bootstrap,css,docker,github,gitlab,mongodb,nodejs,figma,html,materialui,tailwind,postman,cpp,linux&perline=16" />
-  </a>
-</p>
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Let's Connect🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/anmollamba/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/Anmollamba20" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a>   
-</p>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
