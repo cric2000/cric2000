@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Anmol Lamba
@@ -23,24 +22,48 @@ My interests include **backend architecture, database performance, cloud infrast
 
 ### Technologies
 
-**Languages**  
+**Languages**
 
 ![Languages](https://skillicons.dev/icons?i=go,py,ts,js,dart,cpp&perline=10)
 
-**Frontend & Mobile**  
+**Frontend & Mobile**
 
 ![Frontend and Mobile](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,flutter,tailwind,html,css&perline=10)  
 React Native
 
-**Backend & Data**  
+**Backend & Data**
 
 ![Backend and Data](https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql,supabase&perline=10)
 
-**Cloud & Tools**  
+**Cloud & Tools**
 
 ![Cloud and Tools](https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,linux,postman&perline=10)
 
 **Also experienced with:** REST APIs, CI/CD, SQL query optimization, third-party integrations, and application deployment.
+
+### Meet BuildBuddy 🌱
+
+**Build status, with a little personality.**
+
+Pick a character, customize its mood and theme, or connect the included GitHub Actions workflow to make it react to your test results. Use the hosted API directly or generate SVGs locally with the CLI.
+
+<p align="center">
+  <img src="https://build-buddy-kappa.vercel.app/v1/mascot.svg?character=kappa&amp;status=passing" width="140" alt="Kappa showing a passing build">
+  <img src="https://build-buddy-kappa.vercel.app/v1/mascot.svg?character=tanuki&amp;status=running" width="140" alt="Tanuki showing a running build">
+  <img src="https://build-buddy-kappa.vercel.app/v1/mascot.svg?character=tengu&amp;status=queued" width="140" alt="Tengu showing a queued build">
+  <img src="https://build-buddy-kappa.vercel.app/v1/mascot.svg?character=kurama&amp;status=unknown" width="140" alt="Kurama showing an unknown build status">
+  <img src="https://build-buddy-kappa.vercel.app/v1/mascot.svg?character=chopper&amp;status=failing&amp;failed_tests=12" width="140" alt="Chopper showing a failing build">
+</p>
+
+<p align="center">
+  <sub>A preview of the five build states—each companion supports all five.</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cric2000/build-buddy">
+    Explore BuildBuddy and create your own companion →
+  </a>
+</p>
 
 ### GitHub Activity
 
