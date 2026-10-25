@@ -69,9 +69,9 @@ Pick a character, customize its mood and theme, or connect the included GitHub A
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=cric2000&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=cric2000&theme=tokyonight&hide_border=true&v=20261026)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cric2000&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cric2000&layout=compact&theme=tokyonight&hide_border=true&v=20261026)
 
 <sub>Language statistics reflect public repository content, not overall proficiency.</sub>
 
