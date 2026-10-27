@@ -2,7 +2,7 @@
 
 # Anmol Lamba
 
-### Full-Stack Software Engineer · Web & Mobile
+### Full-Stack Software Engineer
 
 Building reliable services, scalable applications, and thoughtful product experiences.
 
