@@ -41,37 +41,13 @@ React Native
 
 **Also experienced with:** REST APIs, CI/CD, SQL query optimization, third-party integrations, and application deployment.
 
-### Meet BuildBuddy 🌱
-
-**Build status, with a little personality.**
-
-Pick a character, customize its mood and theme, or connect the included GitHub Actions workflow to make it react to your test results. Use the hosted API directly or generate SVGs locally with the CLI.
-
-<p align="center">
-  <img src="https://build-buddy-kappa.vercel.app/v1/mascot.svg?character=kappa&amp;status=passing" width="140" alt="Kappa showing a passing build">
-  <img src="https://build-buddy-kappa.vercel.app/v1/mascot.svg?character=tanuki&amp;status=running" width="140" alt="Tanuki showing a running build">
-  <img src="https://build-buddy-kappa.vercel.app/v1/mascot.svg?character=tengu&amp;status=queued" width="140" alt="Tengu showing a queued build">
-  <img src="https://build-buddy-kappa.vercel.app/v1/mascot.svg?character=kurama&amp;status=unknown" width="140" alt="Kurama showing an unknown build status">
-  <img src="https://build-buddy-kappa.vercel.app/v1/mascot.svg?character=chopper&amp;status=failing&amp;failed_tests=12" width="140" alt="Chopper showing a failing build">
-</p>
-
-<p align="center">
-  <sub>A preview of the five build states—each companion supports all five.</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/cric2000/build-buddy">
-    Explore BuildBuddy and create your own companion →
-  </a>
-</p>
-
 ### GitHub Activity
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=cric2000&theme=tokyonight&hide_border=true&v=20261026)
+![GitHub Streak](https://streak-stats.demolab.com?user=cric2000&theme=tokyonight&hide_border=true&v=20261028)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cric2000&layout=compact&theme=tokyonight&hide_border=true&v=20261026)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cric2000&layout=compact&theme=tokyonight&hide_border=true&v=20261028)
 
 <sub>Language statistics reflect public repository content, not overall proficiency.</sub>
 
