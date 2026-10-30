@@ -45,10 +45,9 @@ React Native
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=cric2000&theme=tokyonight&hide_border=true&v=20261028)
+![GitHub Streak](https://streak-stats.demolab.com?user=cric2000&theme=tokyonight&hide_border=true&v=20261029)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cric2000&layout=compact&theme=tokyonight&hide_border=true&v=20261028)
-
-<sub>Language statistics reflect public repository content, not overall proficiency.</sub>
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cric2000&layout=compact&theme=tokyonight&hide_border=true&v=20261028)-->
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=cric2000&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
